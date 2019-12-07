@@ -8,26 +8,28 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Egyptian Ratscrew](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Egyptian Ratscrew](https://github.com/GoatRydah/School_EgyptianRatscrew)
+<img src="images/er.png?raw=true"/>
 
 ---
-[Weather API](http://example.com/)
+[Egyptian Ratscrew2](https://github.com/GoatRydah/School_EgyptianRatscrew)
+<img src="images/er2.png?raw=true"/>
+
+---
+[Weather API](https://github.com/GoatRydah/School_WeatherAPI)
 <img src="images/weather_api_1.png?raw=true"/>
 
 ---
-[Weather API2](http://example.com/)
+[Weather API2](https://github.com/GoatRydah/School_WeatherAPI)
 <img src="images/weather_api_2.png?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Words Game](http://example.com/)
+- [Egyptian Ratscrew](https://github.com/GoatRydah/School_EgyptianRatscrew)
+- [Weather API](https://github.com/GoatRydah/School_WeatherAPI)
 
 ---
 
