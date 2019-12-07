@@ -2,10 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Images
 
-[Words Game](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Words Game](https://github.com/GoatRydah/WordsGame)
+<img src="images/wordsGame.png?raw=true"/>
+
+---
+[Words Game2](https://github.com/GoatRydah/WordsGame)
+<img src="images/wordsGame2.png?raw=true"/>
 
 ---
 [Egyptian Ratscrew](https://github.com/GoatRydah/School_EgyptianRatscrew)
@@ -25,7 +29,7 @@
 
 ---
 
-### Category Name 2
+### The Code
 
 - [Words Game](http://example.com/)
 - [Egyptian Ratscrew](https://github.com/GoatRydah/School_EgyptianRatscrew)
